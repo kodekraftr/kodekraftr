@@ -24,7 +24,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 # 💡 My GitHub Footprints:
 ![](https://github-readme-stats.vercel.app/api?username=kodekraftr&hide_title=true&theme=gotham&show_icons=true&line_height=30) 
-![](https://gitstats.kodekraftr.com?user=kodekraftr&theme=gotham&border_radius=5&card_width=500&card_height=195)
+![](https://streak-stats.demolab.com/?user=kodekraftr&theme=gotham&border_radius=5&card_width=500&card_height=195)
 
 # 📚 My Code Vocabulary :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kodekraftr&theme=gotham&langs_count=5&include_all_commits=true&count_private=true)
